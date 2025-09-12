@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: gray;
+}
+#header{
+    height: 70px;
+    background-color: red;
+}
+#header #title{
+    width: 200px;
+    height: 30px;
+    background-color: brown;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+div#columna2{
+    background-color: black;
+    height: 300px;
+}
+div#columna2 div.cuadrito{
+    background-color: white;
+    width: 20%;
+    height: 90%;
+    margin-left: 55px;
+    float: left;
+}
+div#colmM{
+    background-color: rgb(121, 214, 45);
+    height: 200px;
+}
+div#colmM div.cuadritoM{
+    background-color: white;
+    width: 20%;
+    height: 90%;
+    margin-left: 55px;
+    float: left;
+}
+div#columna3{
+    background-color: rgb(71, 46, 46);
+    height: 100px;
+}
+div#columna3 div.cuadrito2{
+    background-color: white;
+    width: 20%;
+    height: 90%;
+    margin-right: 10px;
+    float: right;
+}
+div#columna4{
+    background-color: rgb(175, 33, 33);
+    height: 100px;
+}
+div#columna4 div.cuadrito3{
+    background-color: white;
+    width: 20%;
+    height: 90%;
+    margin-right: 55 0px;
+    float: right;
+}
