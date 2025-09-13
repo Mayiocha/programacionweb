@@ -27,18 +27,20 @@ div#columna2 div.cuadrito{
     background-color: white;
     width: 20%;
     height: 90%;
-    margin-left: 55px;
+    margin-left: 80px;
+    margin-top: 15px;
     float: left;
 }
 div#colmM{
     background-color: rgb(121, 214, 45);
-    height: 200px;
+    height: 300px;
 }
 div#colmM div.cuadritoM{
     background-color: white;
     width: 20%;
     height: 90%;
-    margin-left: 55px;
+    margin-top: 15px;
+    margin-left: 400px;
     float: left;
 }
 div#columna3{
@@ -47,19 +49,21 @@ div#columna3{
 }
 div#columna3 div.cuadrito2{
     background-color: white;
-    width: 20%;
-    height: 90%;
+    width: 120px;
+    height: 60px;
     margin-right: 10px;
+    margin-top: 15px;
     float: right;
 }
 div#columna4{
     background-color: rgb(175, 33, 33);
-    height: 100px;
+    height: 150px;
 }
 div#columna4 div.cuadrito3{
     background-color: white;
-    width: 20%;
-    height: 90%;
-    margin-right: 55 0px;
+    width: 200px;
+    height: 120px;
+    margin-top: 14px;
+    margin-right: 45%;
     float: right;
 }
